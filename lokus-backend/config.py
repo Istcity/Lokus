@@ -13,6 +13,7 @@ class Settings(BaseSettings):
     enable_etl_scheduler: bool = False
     app_name: str = "Lokus Geo API"
     app_version: str = "1.0.0"
+    tcmb_evds_api_key: str = ""
 
 
 settings = Settings()

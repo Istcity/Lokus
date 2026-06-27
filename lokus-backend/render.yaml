@@ -1,0 +1,15 @@
+# Ücretsiz sunucu — Render.com (mock mod, TCMB proxy)
+# https://render.com → New Web Service → bu repo, root: lokus-backend
+services:
+  - type: web
+    name: lokus-geo
+    runtime: python
+    rootDir: lokus-backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: USE_MOCK_DATA
+        value: "true"
+      - key: TCMB_EVDS_API_KEY
+        sync: false
+    plan: free

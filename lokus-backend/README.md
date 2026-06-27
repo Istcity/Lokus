@@ -64,3 +64,21 @@ pytest tests/ -q
 `Secrets.plist` → `GEO_BACKEND_URL=http://127.0.0.1:8000`
 
 Simülatör: `127.0.0.1` · Fiziksel cihaz: Mac IP adresi
+
+## TCMB EVDS3 (ücretsiz fiyat kaynağı)
+
+1. https://evds3.tcmb.gov.tr adresinde kayıt olun
+2. Profil → API Anahtarı oluşturun
+3. `lokus-backend/.env` → `TCMB_EVDS_API_KEY=...`
+4. iOS `Secrets.plist` → aynı anahtar (backend yoksa doğrudan EVDS)
+
+Uçlar: `GET /api/prices/tcmb/province/34` (İstanbul m² ortanca)
+
+## Ücretsiz sunucu (Render)
+
+1. [render.com](https://render.com) hesabı (GitHub bağla)
+2. `lokus-backend/render.yaml` ile Web Service oluştur
+3. Dashboard → Environment → `TCMB_EVDS_API_KEY` ekle
+4. iOS `Secrets.plist` → `GEO_BACKEND_URL=https://lokus-geo.onrender.com`
+
+Alternatifler: **Fly.io** (ücretsiz kotası), **Railway** (aylık kredi), **Oracle Cloud Always Free** (VPS, kurulum biraz daha zahmetli).
