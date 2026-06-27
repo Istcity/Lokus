@@ -1,491 +1,491 @@
 {
-  "version": "3.0",
-  "lastUpdated": "2025-06",
+  "version": "3.1",
+  "lastUpdated": "2026-06",
   "provinces": [
     {
       "plateNumber": 1,
       "name": "Adana",
-      "avgHousePrice": 38000,
+      "avgHousePrice": 42000,
       "districts": []
     },
     {
       "plateNumber": 2,
       "name": "Adıyaman",
-      "avgHousePrice": 22000,
+      "avgHousePrice": 24640,
       "districts": []
     },
     {
       "plateNumber": 3,
       "name": "Afyonkarahisar",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "districts": []
     },
     {
       "plateNumber": 4,
       "name": "Ağrı",
-      "avgHousePrice": 18000,
+      "avgHousePrice": 20160,
       "districts": []
     },
     {
       "plateNumber": 5,
       "name": "Amasya",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "districts": []
     },
     {
       "plateNumber": 6,
       "name": "Ankara",
-      "avgHousePrice": 52000,
+      "avgHousePrice": 58000,
       "districts": []
     },
     {
       "plateNumber": 7,
       "name": "Antalya",
-      "avgHousePrice": 65000,
+      "avgHousePrice": 72000,
       "districts": []
     },
     {
       "plateNumber": 8,
       "name": "Artvin",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "districts": []
     },
     {
       "plateNumber": 9,
       "name": "Aydın",
-      "avgHousePrice": 42000,
+      "avgHousePrice": 47040,
       "districts": []
     },
     {
       "plateNumber": 10,
       "name": "Balıkesir",
-      "avgHousePrice": 36000,
+      "avgHousePrice": 40000,
       "districts": []
     },
     {
       "plateNumber": 11,
       "name": "Bilecik",
-      "avgHousePrice": 30000,
+      "avgHousePrice": 33600,
       "districts": []
     },
     {
       "plateNumber": 12,
       "name": "Bingöl",
-      "avgHousePrice": 17000,
+      "avgHousePrice": 19040,
       "districts": []
     },
     {
       "plateNumber": 13,
       "name": "Bitlis",
-      "avgHousePrice": 19000,
+      "avgHousePrice": 21280,
       "districts": []
     },
     {
       "plateNumber": 14,
       "name": "Bolu",
-      "avgHousePrice": 32000,
+      "avgHousePrice": 35840,
       "districts": []
     },
     {
       "plateNumber": 15,
       "name": "Burdur",
-      "avgHousePrice": 29000,
+      "avgHousePrice": 32480,
       "districts": []
     },
     {
       "plateNumber": 16,
       "name": "Bursa",
-      "avgHousePrice": 48000,
+      "avgHousePrice": 52000,
       "districts": []
     },
     {
       "plateNumber": 17,
       "name": "Çanakkale",
-      "avgHousePrice": 34000,
+      "avgHousePrice": 38080,
       "districts": []
     },
     {
       "plateNumber": 18,
       "name": "Çankırı",
-      "avgHousePrice": 22000,
+      "avgHousePrice": 24640,
       "districts": []
     },
     {
       "plateNumber": 19,
       "name": "Çorum",
-      "avgHousePrice": 25000,
+      "avgHousePrice": 28000,
       "districts": []
     },
     {
       "plateNumber": 20,
       "name": "Denizli",
-      "avgHousePrice": 40000,
+      "avgHousePrice": 45000,
       "districts": []
     },
     {
       "plateNumber": 21,
       "name": "Diyarbakır",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "districts": []
     },
     {
       "plateNumber": 22,
       "name": "Edirne",
-      "avgHousePrice": 35000,
+      "avgHousePrice": 39200,
       "districts": []
     },
     {
       "plateNumber": 23,
       "name": "Elazığ",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "districts": []
     },
     {
       "plateNumber": 24,
       "name": "Erzincan",
-      "avgHousePrice": 21000,
+      "avgHousePrice": 23520,
       "districts": []
     },
     {
       "plateNumber": 25,
       "name": "Erzurum",
-      "avgHousePrice": 23000,
+      "avgHousePrice": 25760,
       "districts": []
     },
     {
       "plateNumber": 26,
       "name": "Eskişehir",
-      "avgHousePrice": 44000,
+      "avgHousePrice": 48000,
       "districts": []
     },
     {
       "plateNumber": 27,
       "name": "Gaziantep",
-      "avgHousePrice": 36000,
+      "avgHousePrice": 40000,
       "districts": []
     },
     {
       "plateNumber": 28,
       "name": "Giresun",
-      "avgHousePrice": 27000,
+      "avgHousePrice": 30240,
       "districts": []
     },
     {
       "plateNumber": 29,
       "name": "Gümüşhane",
-      "avgHousePrice": 20000,
+      "avgHousePrice": 22400,
       "districts": []
     },
     {
       "plateNumber": 30,
       "name": "Hakkari",
-      "avgHousePrice": 16000,
+      "avgHousePrice": 17920,
       "districts": []
     },
     {
       "plateNumber": 31,
       "name": "Hatay",
-      "avgHousePrice": 34000,
+      "avgHousePrice": 38000,
       "districts": []
     },
     {
       "plateNumber": 32,
       "name": "Isparta",
-      "avgHousePrice": 31000,
+      "avgHousePrice": 34720,
       "districts": []
     },
     {
       "plateNumber": 33,
       "name": "Mersin",
-      "avgHousePrice": 45000,
+      "avgHousePrice": 48000,
       "districts": []
     },
     {
       "plateNumber": 34,
       "name": "İstanbul",
-      "avgHousePrice": 95000,
+      "avgHousePrice": 108000,
       "districts": []
     },
     {
       "plateNumber": 35,
       "name": "İzmir",
-      "avgHousePrice": 72000,
+      "avgHousePrice": 78000,
       "districts": []
     },
     {
       "plateNumber": 36,
       "name": "Kars",
-      "avgHousePrice": 18000,
+      "avgHousePrice": 20160,
       "districts": []
     },
     {
       "plateNumber": 37,
       "name": "Kastamonu",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "districts": []
     },
     {
       "plateNumber": 38,
       "name": "Kayseri",
-      "avgHousePrice": 38000,
+      "avgHousePrice": 42560,
       "districts": []
     },
     {
       "plateNumber": 39,
       "name": "Kırklareli",
-      "avgHousePrice": 33000,
+      "avgHousePrice": 36960,
       "districts": []
     },
     {
       "plateNumber": 40,
       "name": "Kırşehir",
-      "avgHousePrice": 23000,
+      "avgHousePrice": 25760,
       "districts": []
     },
     {
       "plateNumber": 41,
       "name": "Kocaeli",
-      "avgHousePrice": 55000,
+      "avgHousePrice": 62000,
       "districts": []
     },
     {
       "plateNumber": 42,
       "name": "Konya",
-      "avgHousePrice": 32000,
+      "avgHousePrice": 36000,
       "districts": []
     },
     {
       "plateNumber": 43,
       "name": "Kütahya",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "districts": []
     },
     {
       "plateNumber": 44,
       "name": "Malatya",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "districts": []
     },
     {
       "plateNumber": 45,
       "name": "Manisa",
-      "avgHousePrice": 41000,
+      "avgHousePrice": 45920,
       "districts": []
     },
     {
       "plateNumber": 46,
       "name": "Kahramanmaraş",
-      "avgHousePrice": 27000,
+      "avgHousePrice": 30240,
       "districts": []
     },
     {
       "plateNumber": 47,
       "name": "Mardin",
-      "avgHousePrice": 25000,
+      "avgHousePrice": 28000,
       "districts": []
     },
     {
       "plateNumber": 48,
       "name": "Muğla",
-      "avgHousePrice": 68000,
+      "avgHousePrice": 75000,
       "districts": []
     },
     {
       "plateNumber": 49,
       "name": "Muş",
-      "avgHousePrice": 17000,
+      "avgHousePrice": 19040,
       "districts": []
     },
     {
       "plateNumber": 50,
       "name": "Nevşehir",
-      "avgHousePrice": 35000,
+      "avgHousePrice": 39200,
       "districts": []
     },
     {
       "plateNumber": 51,
       "name": "Niğde",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "districts": []
     },
     {
       "plateNumber": 52,
       "name": "Ordu",
-      "avgHousePrice": 30000,
+      "avgHousePrice": 33600,
       "districts": []
     },
     {
       "plateNumber": 53,
       "name": "Rize",
-      "avgHousePrice": 32000,
+      "avgHousePrice": 35840,
       "districts": []
     },
     {
       "plateNumber": 54,
       "name": "Sakarya",
-      "avgHousePrice": 46000,
+      "avgHousePrice": 51520,
       "districts": []
     },
     {
       "plateNumber": 55,
       "name": "Samsun",
-      "avgHousePrice": 34000,
+      "avgHousePrice": 38000,
       "districts": []
     },
     {
       "plateNumber": 56,
       "name": "Siirt",
-      "avgHousePrice": 20000,
+      "avgHousePrice": 22400,
       "districts": []
     },
     {
       "plateNumber": 57,
       "name": "Sinop",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "districts": []
     },
     {
       "plateNumber": 58,
       "name": "Sivas",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "districts": []
     },
     {
       "plateNumber": 59,
       "name": "Tekirdağ",
-      "avgHousePrice": 50000,
+      "avgHousePrice": 55000,
       "districts": []
     },
     {
       "plateNumber": 60,
       "name": "Tokat",
-      "avgHousePrice": 22000,
+      "avgHousePrice": 24640,
       "districts": []
     },
     {
       "plateNumber": 61,
       "name": "Trabzon",
-      "avgHousePrice": 42000,
+      "avgHousePrice": 45000,
       "districts": []
     },
     {
       "plateNumber": 62,
       "name": "Tunceli",
-      "avgHousePrice": 19000,
+      "avgHousePrice": 21280,
       "districts": []
     },
     {
       "plateNumber": 63,
       "name": "Şanlıurfa",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "districts": []
     },
     {
       "plateNumber": 64,
       "name": "Uşak",
-      "avgHousePrice": 29000,
+      "avgHousePrice": 32480,
       "districts": []
     },
     {
       "plateNumber": 65,
       "name": "Van",
-      "avgHousePrice": 22000,
+      "avgHousePrice": 24640,
       "districts": []
     },
     {
       "plateNumber": 66,
       "name": "Yozgat",
-      "avgHousePrice": 20000,
+      "avgHousePrice": 22400,
       "districts": []
     },
     {
       "plateNumber": 67,
       "name": "Zonguldak",
-      "avgHousePrice": 30000,
+      "avgHousePrice": 33600,
       "districts": []
     },
     {
       "plateNumber": 68,
       "name": "Aksaray",
-      "avgHousePrice": 25000,
+      "avgHousePrice": 28000,
       "districts": []
     },
     {
       "plateNumber": 69,
       "name": "Bayburt",
-      "avgHousePrice": 18000,
+      "avgHousePrice": 20160,
       "districts": []
     },
     {
       "plateNumber": 70,
       "name": "Karaman",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "districts": []
     },
     {
       "plateNumber": 71,
       "name": "Kırıkkale",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "districts": []
     },
     {
       "plateNumber": 72,
       "name": "Batman",
-      "avgHousePrice": 23000,
+      "avgHousePrice": 25760,
       "districts": []
     },
     {
       "plateNumber": 73,
       "name": "Şırnak",
-      "avgHousePrice": 18000,
+      "avgHousePrice": 20160,
       "districts": []
     },
     {
       "plateNumber": 74,
       "name": "Bartın",
-      "avgHousePrice": 31000,
+      "avgHousePrice": 34720,
       "districts": []
     },
     {
       "plateNumber": 75,
       "name": "Ardahan",
-      "avgHousePrice": 17000,
+      "avgHousePrice": 19040,
       "districts": []
     },
     {
       "plateNumber": 76,
       "name": "Iğdır",
-      "avgHousePrice": 20000,
+      "avgHousePrice": 22400,
       "districts": []
     },
     {
       "plateNumber": 77,
       "name": "Yalova",
-      "avgHousePrice": 48000,
+      "avgHousePrice": 53760,
       "districts": []
     },
     {
       "plateNumber": 78,
       "name": "Karabük",
-      "avgHousePrice": 27000,
+      "avgHousePrice": 30240,
       "districts": []
     },
     {
       "plateNumber": 79,
       "name": "Kilis",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "districts": []
     },
     {
       "plateNumber": 80,
       "name": "Osmaniye",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "districts": []
     },
     {
       "plateNumber": 81,
       "name": "Düzce",
-      "avgHousePrice": 34000,
+      "avgHousePrice": 38080,
       "districts": []
     }
   ]

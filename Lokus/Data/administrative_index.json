@@ -1,14 +1,14 @@
 {
-  "version": "2025",
+  "version": "2026.06",
   "source": "turkiyeapi.dev",
-  "lastUpdated": "2025-06",
+  "lastUpdated": "2026-06",
   "provinceCount": 81,
   "districtCount": 973,
   "provinces": [
     {
       "plateNumber": 1,
       "name": "Adana",
-      "avgHousePrice": 38000,
+      "avgHousePrice": 42000,
       "population": 2283609,
       "isMetropolitan": true,
       "districts": [
@@ -137,7 +137,7 @@
     {
       "plateNumber": 2,
       "name": "Adıyaman",
-      "avgHousePrice": 22000,
+      "avgHousePrice": 24640,
       "population": 617821,
       "isMetropolitan": false,
       "districts": [
@@ -218,7 +218,7 @@
     {
       "plateNumber": 3,
       "name": "Afyonkarahisar",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "population": 751808,
       "isMetropolitan": false,
       "districts": [
@@ -371,7 +371,7 @@
     {
       "plateNumber": 4,
       "name": "Ağrı",
-      "avgHousePrice": 18000,
+      "avgHousePrice": 20160,
       "population": 491489,
       "isMetropolitan": false,
       "districts": [
@@ -444,7 +444,7 @@
     {
       "plateNumber": 5,
       "name": "Amasya",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "population": 342242,
       "isMetropolitan": false,
       "districts": [
@@ -509,7 +509,7 @@
     {
       "plateNumber": 6,
       "name": "Ankara",
-      "avgHousePrice": 52000,
+      "avgHousePrice": 58000,
       "population": 5910320,
       "isMetropolitan": true,
       "districts": [
@@ -718,7 +718,7 @@
     {
       "plateNumber": 7,
       "name": "Antalya",
-      "avgHousePrice": 65000,
+      "avgHousePrice": 72000,
       "population": 2777677,
       "isMetropolitan": true,
       "districts": [
@@ -879,7 +879,7 @@
     {
       "plateNumber": 8,
       "name": "Artvin",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "population": 167531,
       "isMetropolitan": false,
       "districts": [
@@ -960,7 +960,7 @@
     {
       "plateNumber": 9,
       "name": "Aydın",
-      "avgHousePrice": 42000,
+      "avgHousePrice": 47040,
       "population": 1172107,
       "isMetropolitan": true,
       "districts": [
@@ -1105,7 +1105,7 @@
     {
       "plateNumber": 10,
       "name": "Balıkesir",
-      "avgHousePrice": 36000,
+      "avgHousePrice": 40000,
       "population": 1284517,
       "isMetropolitan": true,
       "districts": [
@@ -1274,7 +1274,7 @@
     {
       "plateNumber": 11,
       "name": "Bilecik",
-      "avgHousePrice": 30000,
+      "avgHousePrice": 33600,
       "population": 228995,
       "isMetropolitan": false,
       "districts": [
@@ -1347,7 +1347,7 @@
     {
       "plateNumber": 12,
       "name": "Bingöl",
-      "avgHousePrice": 17000,
+      "avgHousePrice": 19040,
       "population": 282299,
       "isMetropolitan": false,
       "districts": [
@@ -1420,7 +1420,7 @@
     {
       "plateNumber": 13,
       "name": "Bitlis",
-      "avgHousePrice": 19000,
+      "avgHousePrice": 21280,
       "population": 360423,
       "isMetropolitan": false,
       "districts": [
@@ -1485,7 +1485,7 @@
     {
       "plateNumber": 14,
       "name": "Bolu",
-      "avgHousePrice": 32000,
+      "avgHousePrice": 35840,
       "population": 327173,
       "isMetropolitan": false,
       "districts": [
@@ -1566,7 +1566,7 @@
     {
       "plateNumber": 15,
       "name": "Burdur",
-      "avgHousePrice": 29000,
+      "avgHousePrice": 32480,
       "population": 277226,
       "isMetropolitan": false,
       "districts": [
@@ -1663,7 +1663,7 @@
     {
       "plateNumber": 16,
       "name": "Bursa",
-      "avgHousePrice": 48000,
+      "avgHousePrice": 52000,
       "population": 3263011,
       "isMetropolitan": true,
       "districts": [
@@ -1808,7 +1808,7 @@
     {
       "plateNumber": 17,
       "name": "Çanakkale",
-      "avgHousePrice": 34000,
+      "avgHousePrice": 38080,
       "population": 573976,
       "isMetropolitan": false,
       "districts": [
@@ -1913,7 +1913,7 @@
     {
       "plateNumber": 18,
       "name": "Çankırı",
-      "avgHousePrice": 22000,
+      "avgHousePrice": 24640,
       "population": 200549,
       "isMetropolitan": false,
       "districts": [
@@ -2018,7 +2018,7 @@
     {
       "plateNumber": 19,
       "name": "Çorum",
-      "avgHousePrice": 25000,
+      "avgHousePrice": 28000,
       "population": 519590,
       "isMetropolitan": false,
       "districts": [
@@ -2139,7 +2139,7 @@
     {
       "plateNumber": 20,
       "name": "Denizli",
-      "avgHousePrice": 40000,
+      "avgHousePrice": 45000,
       "population": 1060975,
       "isMetropolitan": true,
       "districts": [
@@ -2300,7 +2300,7 @@
     {
       "plateNumber": 21,
       "name": "Diyarbakır",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "population": 1852356,
       "isMetropolitan": true,
       "districts": [
@@ -2445,7 +2445,7 @@
     {
       "plateNumber": 22,
       "name": "Edirne",
-      "avgHousePrice": 35000,
+      "avgHousePrice": 39200,
       "population": 422438,
       "isMetropolitan": false,
       "districts": [
@@ -2526,7 +2526,7 @@
     {
       "plateNumber": 23,
       "name": "Elazığ",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "population": 605678,
       "isMetropolitan": false,
       "districts": [
@@ -2623,7 +2623,7 @@
     {
       "plateNumber": 24,
       "name": "Erzincan",
-      "avgHousePrice": 21000,
+      "avgHousePrice": 23520,
       "population": 239625,
       "isMetropolitan": false,
       "districts": [
@@ -2704,7 +2704,7 @@
     {
       "plateNumber": 25,
       "name": "Erzurum",
-      "avgHousePrice": 23000,
+      "avgHousePrice": 25760,
       "population": 736877,
       "isMetropolitan": true,
       "districts": [
@@ -2873,7 +2873,7 @@
     {
       "plateNumber": 26,
       "name": "Eskişehir",
-      "avgHousePrice": 44000,
+      "avgHousePrice": 48000,
       "population": 927956,
       "isMetropolitan": true,
       "districts": [
@@ -2994,7 +2994,7 @@
     {
       "plateNumber": 27,
       "name": "Gaziantep",
-      "avgHousePrice": 36000,
+      "avgHousePrice": 40000,
       "population": 2222415,
       "isMetropolitan": true,
       "districts": [
@@ -3075,7 +3075,7 @@
     {
       "plateNumber": 28,
       "name": "Giresun",
-      "avgHousePrice": 27000,
+      "avgHousePrice": 30240,
       "population": 455074,
       "isMetropolitan": false,
       "districts": [
@@ -3212,7 +3212,7 @@
     {
       "plateNumber": 29,
       "name": "Gümüşhane",
-      "avgHousePrice": 20000,
+      "avgHousePrice": 22400,
       "population": 138807,
       "isMetropolitan": false,
       "districts": [
@@ -3269,7 +3269,7 @@
     {
       "plateNumber": 30,
       "name": "Hakkari",
-      "avgHousePrice": 16000,
+      "avgHousePrice": 17920,
       "population": 279681,
       "isMetropolitan": false,
       "districts": [
@@ -3318,7 +3318,7 @@
     {
       "plateNumber": 31,
       "name": "Hatay",
-      "avgHousePrice": 34000,
+      "avgHousePrice": 38000,
       "population": 1577531,
       "isMetropolitan": true,
       "districts": [
@@ -3447,7 +3447,7 @@
     {
       "plateNumber": 32,
       "name": "Isparta",
-      "avgHousePrice": 31000,
+      "avgHousePrice": 34720,
       "population": 445303,
       "isMetropolitan": false,
       "districts": [
@@ -3560,7 +3560,7 @@
     {
       "plateNumber": 33,
       "name": "Mersin",
-      "avgHousePrice": 45000,
+      "avgHousePrice": 48000,
       "population": 1956428,
       "isMetropolitan": true,
       "districts": [
@@ -3673,7 +3673,7 @@
     {
       "plateNumber": 34,
       "name": "İstanbul",
-      "avgHousePrice": 95000,
+      "avgHousePrice": 108000,
       "population": 15754053,
       "isMetropolitan": true,
       "districts": [
@@ -3994,7 +3994,7 @@
     {
       "plateNumber": 35,
       "name": "İzmir",
-      "avgHousePrice": 72000,
+      "avgHousePrice": 78000,
       "population": 4504185,
       "isMetropolitan": true,
       "districts": [
@@ -4243,7 +4243,7 @@
     {
       "plateNumber": 36,
       "name": "Kars",
-      "avgHousePrice": 18000,
+      "avgHousePrice": 20160,
       "population": 268991,
       "isMetropolitan": false,
       "districts": [
@@ -4316,7 +4316,7 @@
     {
       "plateNumber": 37,
       "name": "Kastamonu",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "population": 379934,
       "isMetropolitan": false,
       "districts": [
@@ -4485,7 +4485,7 @@
     {
       "plateNumber": 38,
       "name": "Kayseri",
-      "avgHousePrice": 38000,
+      "avgHousePrice": 42560,
       "population": 1458991,
       "isMetropolitan": true,
       "districts": [
@@ -4622,7 +4622,7 @@
     {
       "plateNumber": 39,
       "name": "Kırklareli",
-      "avgHousePrice": 33000,
+      "avgHousePrice": 36960,
       "population": 379595,
       "isMetropolitan": false,
       "districts": [
@@ -4695,7 +4695,7 @@
     {
       "plateNumber": 40,
       "name": "Kırşehir",
-      "avgHousePrice": 23000,
+      "avgHousePrice": 25760,
       "population": 242777,
       "isMetropolitan": false,
       "districts": [
@@ -4760,7 +4760,7 @@
     {
       "plateNumber": 41,
       "name": "Kocaeli",
-      "avgHousePrice": 55000,
+      "avgHousePrice": 62000,
       "population": 2161171,
       "isMetropolitan": true,
       "districts": [
@@ -4865,7 +4865,7 @@
     {
       "plateNumber": 42,
       "name": "Konya",
-      "avgHousePrice": 32000,
+      "avgHousePrice": 36000,
       "population": 2343409,
       "isMetropolitan": true,
       "districts": [
@@ -5122,7 +5122,7 @@
     {
       "plateNumber": 43,
       "name": "Kütahya",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "population": 570478,
       "isMetropolitan": false,
       "districts": [
@@ -5235,7 +5235,7 @@
     {
       "plateNumber": 44,
       "name": "Malatya",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "population": 755854,
       "isMetropolitan": true,
       "districts": [
@@ -5348,7 +5348,7 @@
     {
       "plateNumber": 45,
       "name": "Manisa",
-      "avgHousePrice": 41000,
+      "avgHousePrice": 45920,
       "population": 1477756,
       "isMetropolitan": true,
       "districts": [
@@ -5493,7 +5493,7 @@
     {
       "plateNumber": 46,
       "name": "Kahramanmaraş",
-      "avgHousePrice": 27000,
+      "avgHousePrice": 30240,
       "population": 1146278,
       "isMetropolitan": true,
       "districts": [
@@ -5590,7 +5590,7 @@
     {
       "plateNumber": 47,
       "name": "Mardin",
-      "avgHousePrice": 25000,
+      "avgHousePrice": 28000,
       "population": 903576,
       "isMetropolitan": true,
       "districts": [
@@ -5679,7 +5679,7 @@
     {
       "plateNumber": 48,
       "name": "Muğla",
-      "avgHousePrice": 68000,
+      "avgHousePrice": 75000,
       "population": 1099547,
       "isMetropolitan": true,
       "districts": [
@@ -5792,7 +5792,7 @@
     {
       "plateNumber": 49,
       "name": "Muş",
-      "avgHousePrice": 17000,
+      "avgHousePrice": 19040,
       "population": 389127,
       "isMetropolitan": false,
       "districts": [
@@ -5849,7 +5849,7 @@
     {
       "plateNumber": 50,
       "name": "Nevşehir",
-      "avgHousePrice": 35000,
+      "avgHousePrice": 39200,
       "population": 320150,
       "isMetropolitan": false,
       "districts": [
@@ -5922,7 +5922,7 @@
     {
       "plateNumber": 51,
       "name": "Niğde",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "population": 374492,
       "isMetropolitan": false,
       "districts": [
@@ -5979,7 +5979,7 @@
     {
       "plateNumber": 52,
       "name": "Ordu",
-      "avgHousePrice": 30000,
+      "avgHousePrice": 33600,
       "population": 768087,
       "isMetropolitan": true,
       "districts": [
@@ -6140,7 +6140,7 @@
     {
       "plateNumber": 53,
       "name": "Rize",
-      "avgHousePrice": 32000,
+      "avgHousePrice": 35840,
       "population": 346947,
       "isMetropolitan": false,
       "districts": [
@@ -6245,7 +6245,7 @@
     {
       "plateNumber": 54,
       "name": "Sakarya",
-      "avgHousePrice": 46000,
+      "avgHousePrice": 51520,
       "population": 1123693,
       "isMetropolitan": true,
       "districts": [
@@ -6382,7 +6382,7 @@
     {
       "plateNumber": 55,
       "name": "Samsun",
-      "avgHousePrice": 34000,
+      "avgHousePrice": 38000,
       "population": 1392403,
       "isMetropolitan": true,
       "districts": [
@@ -6527,7 +6527,7 @@
     {
       "plateNumber": 56,
       "name": "Siirt",
-      "avgHousePrice": 20000,
+      "avgHousePrice": 22400,
       "population": 332369,
       "isMetropolitan": false,
       "districts": [
@@ -6592,7 +6592,7 @@
     {
       "plateNumber": 57,
       "name": "Sinop",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "population": 225848,
       "isMetropolitan": false,
       "districts": [
@@ -6673,7 +6673,7 @@
     {
       "plateNumber": 58,
       "name": "Sivas",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "population": 631401,
       "isMetropolitan": false,
       "districts": [
@@ -6818,7 +6818,7 @@
     {
       "plateNumber": 59,
       "name": "Tekirdağ",
-      "avgHousePrice": 50000,
+      "avgHousePrice": 55000,
       "population": 1208441,
       "isMetropolitan": true,
       "districts": [
@@ -6915,7 +6915,7 @@
     {
       "plateNumber": 60,
       "name": "Tokat",
-      "avgHousePrice": 22000,
+      "avgHousePrice": 24640,
       "population": 614141,
       "isMetropolitan": false,
       "districts": [
@@ -7020,7 +7020,7 @@
     {
       "plateNumber": 61,
       "name": "Trabzon",
-      "avgHousePrice": 42000,
+      "avgHousePrice": 45000,
       "population": 823323,
       "isMetropolitan": true,
       "districts": [
@@ -7173,7 +7173,7 @@
     {
       "plateNumber": 62,
       "name": "Tunceli",
-      "avgHousePrice": 19000,
+      "avgHousePrice": 21280,
       "population": 85083,
       "isMetropolitan": false,
       "districts": [
@@ -7246,7 +7246,7 @@
     {
       "plateNumber": 63,
       "name": "Şanlıurfa",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "population": 2265800,
       "isMetropolitan": true,
       "districts": [
@@ -7359,7 +7359,7 @@
     {
       "plateNumber": 64,
       "name": "Uşak",
-      "avgHousePrice": 29000,
+      "avgHousePrice": 32480,
       "population": 374405,
       "isMetropolitan": false,
       "districts": [
@@ -7416,7 +7416,7 @@
     {
       "plateNumber": 65,
       "name": "Van",
-      "avgHousePrice": 22000,
+      "avgHousePrice": 24640,
       "population": 1112013,
       "isMetropolitan": true,
       "districts": [
@@ -7529,7 +7529,7 @@
     {
       "plateNumber": 66,
       "name": "Yozgat",
-      "avgHousePrice": 20000,
+      "avgHousePrice": 22400,
       "population": 413208,
       "isMetropolitan": false,
       "districts": [
@@ -7650,7 +7650,7 @@
     {
       "plateNumber": 67,
       "name": "Zonguldak",
-      "avgHousePrice": 30000,
+      "avgHousePrice": 33600,
       "population": 585203,
       "isMetropolitan": false,
       "districts": [
@@ -7723,7 +7723,7 @@
     {
       "plateNumber": 68,
       "name": "Aksaray",
-      "avgHousePrice": 25000,
+      "avgHousePrice": 28000,
       "population": 441136,
       "isMetropolitan": false,
       "districts": [
@@ -7796,7 +7796,7 @@
     {
       "plateNumber": 69,
       "name": "Bayburt",
-      "avgHousePrice": 18000,
+      "avgHousePrice": 20160,
       "population": 82836,
       "isMetropolitan": false,
       "districts": [
@@ -7829,7 +7829,7 @@
     {
       "plateNumber": 70,
       "name": "Karaman",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "population": 262355,
       "isMetropolitan": false,
       "districts": [
@@ -7886,7 +7886,7 @@
     {
       "plateNumber": 71,
       "name": "Kırıkkale",
-      "avgHousePrice": 26000,
+      "avgHousePrice": 29120,
       "population": 282830,
       "isMetropolitan": false,
       "districts": [
@@ -7967,7 +7967,7 @@
     {
       "plateNumber": 72,
       "name": "Batman",
-      "avgHousePrice": 23000,
+      "avgHousePrice": 25760,
       "population": 662626,
       "isMetropolitan": false,
       "districts": [
@@ -8024,7 +8024,7 @@
     {
       "plateNumber": 73,
       "name": "Şırnak",
-      "avgHousePrice": 18000,
+      "avgHousePrice": 20160,
       "population": 573666,
       "isMetropolitan": false,
       "districts": [
@@ -8089,7 +8089,7 @@
     {
       "plateNumber": 74,
       "name": "Bartın",
-      "avgHousePrice": 31000,
+      "avgHousePrice": 34720,
       "population": 206663,
       "isMetropolitan": false,
       "districts": [
@@ -8130,7 +8130,7 @@
     {
       "plateNumber": 75,
       "name": "Ardahan",
-      "avgHousePrice": 17000,
+      "avgHousePrice": 19040,
       "population": 90392,
       "isMetropolitan": false,
       "districts": [
@@ -8187,7 +8187,7 @@
     {
       "plateNumber": 76,
       "name": "Iğdır",
-      "avgHousePrice": 20000,
+      "avgHousePrice": 22400,
       "population": 205071,
       "isMetropolitan": false,
       "districts": [
@@ -8228,7 +8228,7 @@
     {
       "plateNumber": 77,
       "name": "Yalova",
-      "avgHousePrice": 48000,
+      "avgHousePrice": 53760,
       "population": 311635,
       "isMetropolitan": false,
       "districts": [
@@ -8285,7 +8285,7 @@
     {
       "plateNumber": 78,
       "name": "Karabük",
-      "avgHousePrice": 27000,
+      "avgHousePrice": 30240,
       "population": 249614,
       "isMetropolitan": false,
       "districts": [
@@ -8342,7 +8342,7 @@
     {
       "plateNumber": 79,
       "name": "Kilis",
-      "avgHousePrice": 24000,
+      "avgHousePrice": 26880,
       "population": 157363,
       "isMetropolitan": false,
       "districts": [
@@ -8383,7 +8383,7 @@
     {
       "plateNumber": 80,
       "name": "Osmaniye",
-      "avgHousePrice": 28000,
+      "avgHousePrice": 31360,
       "population": 564123,
       "isMetropolitan": false,
       "districts": [
@@ -8448,7 +8448,7 @@
     {
       "plateNumber": 81,
       "name": "Düzce",
-      "avgHousePrice": 34000,
+      "avgHousePrice": 38080,
       "population": 415622,
       "isMetropolitan": false,
       "districts": [

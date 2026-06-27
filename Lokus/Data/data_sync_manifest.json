@@ -1,0 +1,41 @@
+{
+  "version": "1.1.0",
+  "updatedAt": "2026-06-27",
+  "files": [
+    {
+      "key": "fault_lines",
+      "path": "fault_lines.json",
+      "sha256": "ccbe15d2bf8bba93918c658b7b91de98610f521943e436b175a686a1e4bc5b51"
+    },
+    {
+      "key": "province_climate",
+      "path": "province_climate.json",
+      "sha256": "75c51d8465c524d68972eef9d49caa93bde2789fe368a336cc78ee120eae07a3"
+    },
+    {
+      "key": "district_price_factors",
+      "path": "district_price_factors.json",
+      "sha256": "7247062e423f7313a73226269dc0cc047cea0a4f947463b6e0ba071688e77cef"
+    },
+    {
+      "key": "district_price_anchors",
+      "path": "district_price_anchors.json",
+      "sha256": "8acc0ff31a997ec0db64022dda7033e08b95f7572f57fcd901f9c8b3357218de"
+    },
+    {
+      "key": "water_landscape",
+      "path": "water_landscape.json",
+      "sha256": "c5af343d1b73a5bdb2a15f33564c4f0bead85597342ad0210e92eb732a3cded6"
+    },
+    {
+      "key": "regional_summary",
+      "path": "regional_summary.json",
+      "sha256": "c5db31018d7cbf8b418e1ac0201ba5c31091fa927550c88ce202623d1b7d8781"
+    },
+    {
+      "key": "administrative_index",
+      "path": "administrative_index.json",
+      "sha256": "61ff6a6d42ab3e5a82a43381c48a8952c743b8461aba1f803d8a72c81b12985c"
+    }
+  ]
+}

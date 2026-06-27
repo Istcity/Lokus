@@ -1,0 +1,815 @@
+{
+  "version": "1.0",
+  "provinces": [
+    {
+      "plateNumber": 1,
+      "name": "Adana",
+      "climateType": "Akdeniz İklimi",
+      "summerDescription": "Sıcak ve kurak yazlar (28–35°C), güneşli",
+      "winterDescription": "Ilıman ve yağışlı kışlar (8–15°C)",
+      "annualPrecipitationMm": 650,
+      "avgSummerTempC": 31,
+      "avgWinterTempC": 11
+    },
+    {
+      "plateNumber": 2,
+      "name": "Adıyaman",
+      "climateType": "Yarı Kurak / Güneydoğu",
+      "summerDescription": "Çok sıcak yazlar (35–42°C), kurak",
+      "winterDescription": "Ilık-soğuk kışlar, yağış az",
+      "annualPrecipitationMm": 450,
+      "avgSummerTempC": 34,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 3,
+      "name": "Afyonkarahisar",
+      "climateType": "Ege İklimi",
+      "summerDescription": "Sıcak yazlar, kıyıda deniz meltemi etkisi",
+      "winterDescription": "Ilıman kışlar, iç kesimde daha soğuk",
+      "annualPrecipitationMm": 700,
+      "avgSummerTempC": 30,
+      "avgWinterTempC": 10
+    },
+    {
+      "plateNumber": 4,
+      "name": "Ağrı",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 5,
+      "name": "Amasya",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 6,
+      "name": "Ankara",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 7,
+      "name": "Antalya",
+      "climateType": "Akdeniz İklimi",
+      "summerDescription": "Sıcak ve kurak yazlar (28–35°C), güneşli",
+      "winterDescription": "Ilıman ve yağışlı kışlar (8–15°C)",
+      "annualPrecipitationMm": 650,
+      "avgSummerTempC": 31,
+      "avgWinterTempC": 11
+    },
+    {
+      "plateNumber": 8,
+      "name": "Artvin",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 9,
+      "name": "Aydın",
+      "climateType": "Ege İklimi",
+      "summerDescription": "Sıcak yazlar, kıyıda deniz meltemi etkisi",
+      "winterDescription": "Ilıman kışlar, iç kesimde daha soğuk",
+      "annualPrecipitationMm": 700,
+      "avgSummerTempC": 30,
+      "avgWinterTempC": 10
+    },
+    {
+      "plateNumber": 10,
+      "name": "Balıkesir",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 11,
+      "name": "Bilecik",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 12,
+      "name": "Bingöl",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 13,
+      "name": "Bitlis",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 14,
+      "name": "Bolu",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 15,
+      "name": "Burdur",
+      "climateType": "Akdeniz İklimi",
+      "summerDescription": "Sıcak ve kurak yazlar (28–35°C), güneşli",
+      "winterDescription": "Ilıman ve yağışlı kışlar (8–15°C)",
+      "annualPrecipitationMm": 650,
+      "avgSummerTempC": 31,
+      "avgWinterTempC": 11
+    },
+    {
+      "plateNumber": 16,
+      "name": "Bursa",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 17,
+      "name": "Çanakkale",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 18,
+      "name": "Çankırı",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 19,
+      "name": "Çorum",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 20,
+      "name": "Denizli",
+      "climateType": "Ege İklimi",
+      "summerDescription": "Sıcak yazlar, kıyıda deniz meltemi etkisi",
+      "winterDescription": "Ilıman kışlar, iç kesimde daha soğuk",
+      "annualPrecipitationMm": 700,
+      "avgSummerTempC": 30,
+      "avgWinterTempC": 10
+    },
+    {
+      "plateNumber": 21,
+      "name": "Diyarbakır",
+      "climateType": "Yarı Kurak / Güneydoğu",
+      "summerDescription": "Çok sıcak yazlar (35–42°C), kurak",
+      "winterDescription": "Ilık-soğuk kışlar, yağış az",
+      "annualPrecipitationMm": 450,
+      "avgSummerTempC": 34,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 22,
+      "name": "Edirne",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 23,
+      "name": "Elazığ",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 24,
+      "name": "Erzincan",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 25,
+      "name": "Erzurum",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 26,
+      "name": "Eskişehir",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 27,
+      "name": "Gaziantep",
+      "climateType": "Yarı Kurak / Güneydoğu",
+      "summerDescription": "Çok sıcak yazlar (35–42°C), kurak",
+      "winterDescription": "Ilık-soğuk kışlar, yağış az",
+      "annualPrecipitationMm": 450,
+      "avgSummerTempC": 34,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 28,
+      "name": "Giresun",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 29,
+      "name": "Gümüşhane",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 30,
+      "name": "Hakkari",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 31,
+      "name": "Hatay",
+      "climateType": "Akdeniz İklimi",
+      "summerDescription": "Sıcak ve kurak yazlar (28–35°C), güneşli",
+      "winterDescription": "Ilıman ve yağışlı kışlar (8–15°C)",
+      "annualPrecipitationMm": 650,
+      "avgSummerTempC": 31,
+      "avgWinterTempC": 11
+    },
+    {
+      "plateNumber": 32,
+      "name": "Isparta",
+      "climateType": "Akdeniz İklimi",
+      "summerDescription": "Sıcak ve kurak yazlar (28–35°C), güneşli",
+      "winterDescription": "Ilıman ve yağışlı kışlar (8–15°C)",
+      "annualPrecipitationMm": 650,
+      "avgSummerTempC": 31,
+      "avgWinterTempC": 11
+    },
+    {
+      "plateNumber": 33,
+      "name": "Mersin",
+      "climateType": "Akdeniz İklimi",
+      "summerDescription": "Sıcak ve kurak yazlar (28–35°C), güneşli",
+      "winterDescription": "Ilıman ve yağışlı kışlar (8–15°C)",
+      "annualPrecipitationMm": 650,
+      "avgSummerTempC": 31,
+      "avgWinterTempC": 11
+    },
+    {
+      "plateNumber": 34,
+      "name": "İstanbul",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 35,
+      "name": "İzmir",
+      "climateType": "Ege İklimi",
+      "summerDescription": "Sıcak yazlar, kıyıda deniz meltemi etkisi",
+      "winterDescription": "Ilıman kışlar, iç kesimde daha soğuk",
+      "annualPrecipitationMm": 700,
+      "avgSummerTempC": 30,
+      "avgWinterTempC": 10
+    },
+    {
+      "plateNumber": 36,
+      "name": "Kars",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 37,
+      "name": "Kastamonu",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 38,
+      "name": "Kayseri",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 39,
+      "name": "Kırklareli",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 40,
+      "name": "Kırşehir",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 41,
+      "name": "Kocaeli",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 42,
+      "name": "Konya",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 43,
+      "name": "Kütahya",
+      "climateType": "Ege İklimi",
+      "summerDescription": "Sıcak yazlar, kıyıda deniz meltemi etkisi",
+      "winterDescription": "Ilıman kışlar, iç kesimde daha soğuk",
+      "annualPrecipitationMm": 700,
+      "avgSummerTempC": 30,
+      "avgWinterTempC": 10
+    },
+    {
+      "plateNumber": 44,
+      "name": "Malatya",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 45,
+      "name": "Manisa",
+      "climateType": "Ege İklimi",
+      "summerDescription": "Sıcak yazlar, kıyıda deniz meltemi etkisi",
+      "winterDescription": "Ilıman kışlar, iç kesimde daha soğuk",
+      "annualPrecipitationMm": 700,
+      "avgSummerTempC": 30,
+      "avgWinterTempC": 10
+    },
+    {
+      "plateNumber": 46,
+      "name": "Kahramanmaraş",
+      "climateType": "Akdeniz İklimi",
+      "summerDescription": "Sıcak ve kurak yazlar (28–35°C), güneşli",
+      "winterDescription": "Ilıman ve yağışlı kışlar (8–15°C)",
+      "annualPrecipitationMm": 650,
+      "avgSummerTempC": 31,
+      "avgWinterTempC": 11
+    },
+    {
+      "plateNumber": 47,
+      "name": "Mardin",
+      "climateType": "Yarı Kurak / Güneydoğu",
+      "summerDescription": "Çok sıcak yazlar (35–42°C), kurak",
+      "winterDescription": "Ilık-soğuk kışlar, yağış az",
+      "annualPrecipitationMm": 450,
+      "avgSummerTempC": 34,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 48,
+      "name": "Muğla",
+      "climateType": "Akdeniz İklimi",
+      "summerDescription": "Sıcak ve kurak yazlar (28–35°C), güneşli",
+      "winterDescription": "Ilıman ve yağışlı kışlar (8–15°C)",
+      "annualPrecipitationMm": 650,
+      "avgSummerTempC": 31,
+      "avgWinterTempC": 11
+    },
+    {
+      "plateNumber": 49,
+      "name": "Muş",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 50,
+      "name": "Nevşehir",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 51,
+      "name": "Niğde",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 52,
+      "name": "Ordu",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 53,
+      "name": "Rize",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 54,
+      "name": "Sakarya",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 55,
+      "name": "Samsun",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 56,
+      "name": "Siirt",
+      "climateType": "Yarı Kurak / Güneydoğu",
+      "summerDescription": "Çok sıcak yazlar (35–42°C), kurak",
+      "winterDescription": "Ilık-soğuk kışlar, yağış az",
+      "annualPrecipitationMm": 450,
+      "avgSummerTempC": 34,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 57,
+      "name": "Sinop",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 58,
+      "name": "Sivas",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 59,
+      "name": "Tekirdağ",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 60,
+      "name": "Tokat",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 61,
+      "name": "Trabzon",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 62,
+      "name": "Tunceli",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 63,
+      "name": "Şanlıurfa",
+      "climateType": "Yarı Kurak / Güneydoğu",
+      "summerDescription": "Çok sıcak yazlar (35–42°C), kurak",
+      "winterDescription": "Ilık-soğuk kışlar, yağış az",
+      "annualPrecipitationMm": 450,
+      "avgSummerTempC": 34,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 64,
+      "name": "Uşak",
+      "climateType": "Ege İklimi",
+      "summerDescription": "Sıcak yazlar, kıyıda deniz meltemi etkisi",
+      "winterDescription": "Ilıman kışlar, iç kesimde daha soğuk",
+      "annualPrecipitationMm": 700,
+      "avgSummerTempC": 30,
+      "avgWinterTempC": 10
+    },
+    {
+      "plateNumber": 65,
+      "name": "Van",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 66,
+      "name": "Yozgat",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 67,
+      "name": "Zonguldak",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 68,
+      "name": "Aksaray",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 69,
+      "name": "Bayburt",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 70,
+      "name": "Karaman",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 71,
+      "name": "Kırıkkale",
+      "climateType": "Karasal İklim (İç Anadolu)",
+      "summerDescription": "Sıcak ve kurak yazlar, gündüz-gece farkı yüksek",
+      "winterDescription": "Soğuk ve karlı kışlar (-5–5°C)",
+      "annualPrecipitationMm": 400,
+      "avgSummerTempC": 26,
+      "avgWinterTempC": 0
+    },
+    {
+      "plateNumber": 72,
+      "name": "Batman",
+      "climateType": "Yarı Kurak / Güneydoğu",
+      "summerDescription": "Çok sıcak yazlar (35–42°C), kurak",
+      "winterDescription": "Ilık-soğuk kışlar, yağış az",
+      "annualPrecipitationMm": 450,
+      "avgSummerTempC": 34,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 73,
+      "name": "Şırnak",
+      "climateType": "Yarı Kurak / Güneydoğu",
+      "summerDescription": "Çok sıcak yazlar (35–42°C), kurak",
+      "winterDescription": "Ilık-soğuk kışlar, yağış az",
+      "annualPrecipitationMm": 450,
+      "avgSummerTempC": 34,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 74,
+      "name": "Bartın",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 75,
+      "name": "Ardahan",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 76,
+      "name": "Iğdır",
+      "climateType": "Sert Karasal / Yüksek İklim",
+      "summerDescription": "Kısa ve serin yazlar, yüksek kesimlerde gece soğuk",
+      "winterDescription": "Uzun, karlı ve sert kışlar",
+      "annualPrecipitationMm": 550,
+      "avgSummerTempC": 22,
+      "avgWinterTempC": -8
+    },
+    {
+      "plateNumber": 77,
+      "name": "Yalova",
+      "climateType": "Marmara Geçiş İklimi",
+      "summerDescription": "Sıcak-yazılık yazlar (25–30°C)",
+      "winterDescription": "Soğuk ve yağışlı kışlar (3–8°C), kar görülebilir",
+      "annualPrecipitationMm": 750,
+      "avgSummerTempC": 27,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 78,
+      "name": "Karabük",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    },
+    {
+      "plateNumber": 79,
+      "name": "Kilis",
+      "climateType": "Yarı Kurak / Güneydoğu",
+      "summerDescription": "Çok sıcak yazlar (35–42°C), kurak",
+      "winterDescription": "Ilık-soğuk kışlar, yağış az",
+      "annualPrecipitationMm": 450,
+      "avgSummerTempC": 34,
+      "avgWinterTempC": 6
+    },
+    {
+      "plateNumber": 80,
+      "name": "Osmaniye",
+      "climateType": "Akdeniz İklimi",
+      "summerDescription": "Sıcak ve kurak yazlar (28–35°C), güneşli",
+      "winterDescription": "Ilıman ve yağışlı kışlar (8–15°C)",
+      "annualPrecipitationMm": 650,
+      "avgSummerTempC": 31,
+      "avgWinterTempC": 11
+    },
+    {
+      "plateNumber": 81,
+      "name": "Düzce",
+      "climateType": "Karadeniz İklimi",
+      "summerDescription": "Serin-yazılık yazlar (22–28°C), yüksek nem",
+      "winterDescription": "Yağışlı ve ılıman kışlar, kar nadir",
+      "annualPrecipitationMm": 1200,
+      "avgSummerTempC": 24,
+      "avgWinterTempC": 8
+    }
+  ]
+}

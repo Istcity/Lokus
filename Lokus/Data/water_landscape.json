@@ -1,0 +1,157 @@
+{
+  "version": "1.0",
+  "coastlineSamples": [
+    {
+      "name": "Karadeniz Kıyısı",
+      "lat": 41.5,
+      "lng": 36.0
+    },
+    {
+      "name": "Marmara Kıyısı",
+      "lat": 40.8,
+      "lng": 28.5
+    },
+    {
+      "name": "Ege Kıyısı",
+      "lat": 38.4,
+      "lng": 27.1
+    },
+    {
+      "name": "Akdeniz Kıyısı",
+      "lat": 36.8,
+      "lng": 30.7
+    }
+  ],
+  "lakes": [
+    {
+      "name": "Van Gölü",
+      "lat": 38.65,
+      "lng": 43.0,
+      "radiusKm": 45
+    },
+    {
+      "name": "Tuz Gölü",
+      "lat": 38.75,
+      "lng": 33.5,
+      "radiusKm": 25
+    },
+    {
+      "name": "Beyşehir Gölü",
+      "lat": 37.75,
+      "lng": 31.55,
+      "radiusKm": 18
+    },
+    {
+      "name": "Eğirdir Gölü",
+      "lat": 37.88,
+      "lng": 30.85,
+      "radiusKm": 12
+    },
+    {
+      "name": "Sapanca Gölü",
+      "lat": 40.69,
+      "lng": 30.27,
+      "radiusKm": 8
+    },
+    {
+      "name": "İznik Gölü",
+      "lat": 40.43,
+      "lng": 29.52,
+      "radiusKm": 10
+    },
+    {
+      "name": "Manyas Gölü",
+      "lat": 40.2,
+      "lng": 27.97,
+      "radiusKm": 8
+    },
+    {
+      "name": "Salda Gölü",
+      "lat": 37.55,
+      "lng": 29.68,
+      "radiusKm": 5
+    }
+  ],
+  "rivers": [
+    {
+      "name": "Sakarya Nehri",
+      "lat": 40.75,
+      "lng": 30.35,
+      "radiusKm": 2
+    },
+    {
+      "name": "Yeşilırmak",
+      "lat": 41.0,
+      "lng": 35.5,
+      "radiusKm": 3
+    },
+    {
+      "name": "Kızılırmak",
+      "lat": 40.5,
+      "lng": 34.0,
+      "radiusKm": 4
+    },
+    {
+      "name": "Fırat Nehri",
+      "lat": 38.5,
+      "lng": 39.2,
+      "radiusKm": 4
+    },
+    {
+      "name": "Dicle Nehri",
+      "lat": 37.9,
+      "lng": 40.2,
+      "radiusKm": 3
+    },
+    {
+      "name": "Gediz Nehri",
+      "lat": 38.5,
+      "lng": 27.1,
+      "radiusKm": 2
+    },
+    {
+      "name": "Büyük Menderes",
+      "lat": 37.85,
+      "lng": 27.85,
+      "radiusKm": 2
+    },
+    {
+      "name": "Meriç Nehri",
+      "lat": 41.0,
+      "lng": 26.5,
+      "radiusKm": 2
+    }
+  ],
+  "mountainZones": [
+    {
+      "name": "Kaçkar Dağları",
+      "lat": 40.85,
+      "lng": 41.15,
+      "radiusKm": 35
+    },
+    {
+      "name": "Toros Dağları",
+      "lat": 37.2,
+      "lng": 34.5,
+      "radiusKm": 80
+    },
+    {
+      "name": "Uludağ",
+      "lat": 40.12,
+      "lng": 29.22,
+      "radiusKm": 15
+    },
+    {
+      "name": "Erciyes",
+      "lat": 38.53,
+      "lng": 35.45,
+      "radiusKm": 20
+    },
+    {
+      "name": "Ağrı Dağı",
+      "lat": 39.7,
+      "lng": 44.3,
+      "radiusKm": 25
+    }
+  ]
+}
