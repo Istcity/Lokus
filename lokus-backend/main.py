@@ -10,7 +10,7 @@ from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
 
 from config import settings
-from routers import admin, geo_query, layers, poi, tiles
+from routers import admin, geo_query, layers, poi, prices, tiles
 
 GEO_ATTRIBUTION = (
     "Parsel ve imar verileri TKGM, ilgili belediyeler ve Çevre Bakanlığı "
@@ -52,6 +52,7 @@ app.include_router(layers.router)
 app.include_router(tiles.router)
 app.include_router(poi.router)
 app.include_router(admin.router)
+app.include_router(prices.router)
 
 
 @app.get("/health")
