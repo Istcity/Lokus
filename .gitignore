@@ -1,0 +1,14 @@
+Secrets.plist
+.env
+.DS_Store
+xcuserdata/
+DerivedData/
+build/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/

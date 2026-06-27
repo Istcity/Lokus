@@ -1,0 +1,492 @@
+{
+  "version": "3.0",
+  "lastUpdated": "2025-06",
+  "provinces": [
+    {
+      "plateNumber": 1,
+      "name": "Adana",
+      "avgHousePrice": 38000,
+      "districts": []
+    },
+    {
+      "plateNumber": 2,
+      "name": "Adıyaman",
+      "avgHousePrice": 22000,
+      "districts": []
+    },
+    {
+      "plateNumber": 3,
+      "name": "Afyonkarahisar",
+      "avgHousePrice": 28000,
+      "districts": []
+    },
+    {
+      "plateNumber": 4,
+      "name": "Ağrı",
+      "avgHousePrice": 18000,
+      "districts": []
+    },
+    {
+      "plateNumber": 5,
+      "name": "Amasya",
+      "avgHousePrice": 26000,
+      "districts": []
+    },
+    {
+      "plateNumber": 6,
+      "name": "Ankara",
+      "avgHousePrice": 52000,
+      "districts": []
+    },
+    {
+      "plateNumber": 7,
+      "name": "Antalya",
+      "avgHousePrice": 65000,
+      "districts": []
+    },
+    {
+      "plateNumber": 8,
+      "name": "Artvin",
+      "avgHousePrice": 24000,
+      "districts": []
+    },
+    {
+      "plateNumber": 9,
+      "name": "Aydın",
+      "avgHousePrice": 42000,
+      "districts": []
+    },
+    {
+      "plateNumber": 10,
+      "name": "Balıkesir",
+      "avgHousePrice": 36000,
+      "districts": []
+    },
+    {
+      "plateNumber": 11,
+      "name": "Bilecik",
+      "avgHousePrice": 30000,
+      "districts": []
+    },
+    {
+      "plateNumber": 12,
+      "name": "Bingöl",
+      "avgHousePrice": 17000,
+      "districts": []
+    },
+    {
+      "plateNumber": 13,
+      "name": "Bitlis",
+      "avgHousePrice": 19000,
+      "districts": []
+    },
+    {
+      "plateNumber": 14,
+      "name": "Bolu",
+      "avgHousePrice": 32000,
+      "districts": []
+    },
+    {
+      "plateNumber": 15,
+      "name": "Burdur",
+      "avgHousePrice": 29000,
+      "districts": []
+    },
+    {
+      "plateNumber": 16,
+      "name": "Bursa",
+      "avgHousePrice": 48000,
+      "districts": []
+    },
+    {
+      "plateNumber": 17,
+      "name": "Çanakkale",
+      "avgHousePrice": 34000,
+      "districts": []
+    },
+    {
+      "plateNumber": 18,
+      "name": "Çankırı",
+      "avgHousePrice": 22000,
+      "districts": []
+    },
+    {
+      "plateNumber": 19,
+      "name": "Çorum",
+      "avgHousePrice": 25000,
+      "districts": []
+    },
+    {
+      "plateNumber": 20,
+      "name": "Denizli",
+      "avgHousePrice": 40000,
+      "districts": []
+    },
+    {
+      "plateNumber": 21,
+      "name": "Diyarbakır",
+      "avgHousePrice": 28000,
+      "districts": []
+    },
+    {
+      "plateNumber": 22,
+      "name": "Edirne",
+      "avgHousePrice": 35000,
+      "districts": []
+    },
+    {
+      "plateNumber": 23,
+      "name": "Elazığ",
+      "avgHousePrice": 24000,
+      "districts": []
+    },
+    {
+      "plateNumber": 24,
+      "name": "Erzincan",
+      "avgHousePrice": 21000,
+      "districts": []
+    },
+    {
+      "plateNumber": 25,
+      "name": "Erzurum",
+      "avgHousePrice": 23000,
+      "districts": []
+    },
+    {
+      "plateNumber": 26,
+      "name": "Eskişehir",
+      "avgHousePrice": 44000,
+      "districts": []
+    },
+    {
+      "plateNumber": 27,
+      "name": "Gaziantep",
+      "avgHousePrice": 36000,
+      "districts": []
+    },
+    {
+      "plateNumber": 28,
+      "name": "Giresun",
+      "avgHousePrice": 27000,
+      "districts": []
+    },
+    {
+      "plateNumber": 29,
+      "name": "Gümüşhane",
+      "avgHousePrice": 20000,
+      "districts": []
+    },
+    {
+      "plateNumber": 30,
+      "name": "Hakkari",
+      "avgHousePrice": 16000,
+      "districts": []
+    },
+    {
+      "plateNumber": 31,
+      "name": "Hatay",
+      "avgHousePrice": 34000,
+      "districts": []
+    },
+    {
+      "plateNumber": 32,
+      "name": "Isparta",
+      "avgHousePrice": 31000,
+      "districts": []
+    },
+    {
+      "plateNumber": 33,
+      "name": "Mersin",
+      "avgHousePrice": 45000,
+      "districts": []
+    },
+    {
+      "plateNumber": 34,
+      "name": "İstanbul",
+      "avgHousePrice": 95000,
+      "districts": []
+    },
+    {
+      "plateNumber": 35,
+      "name": "İzmir",
+      "avgHousePrice": 72000,
+      "districts": []
+    },
+    {
+      "plateNumber": 36,
+      "name": "Kars",
+      "avgHousePrice": 18000,
+      "districts": []
+    },
+    {
+      "plateNumber": 37,
+      "name": "Kastamonu",
+      "avgHousePrice": 24000,
+      "districts": []
+    },
+    {
+      "plateNumber": 38,
+      "name": "Kayseri",
+      "avgHousePrice": 38000,
+      "districts": []
+    },
+    {
+      "plateNumber": 39,
+      "name": "Kırklareli",
+      "avgHousePrice": 33000,
+      "districts": []
+    },
+    {
+      "plateNumber": 40,
+      "name": "Kırşehir",
+      "avgHousePrice": 23000,
+      "districts": []
+    },
+    {
+      "plateNumber": 41,
+      "name": "Kocaeli",
+      "avgHousePrice": 55000,
+      "districts": []
+    },
+    {
+      "plateNumber": 42,
+      "name": "Konya",
+      "avgHousePrice": 32000,
+      "districts": []
+    },
+    {
+      "plateNumber": 43,
+      "name": "Kütahya",
+      "avgHousePrice": 28000,
+      "districts": []
+    },
+    {
+      "plateNumber": 44,
+      "name": "Malatya",
+      "avgHousePrice": 26000,
+      "districts": []
+    },
+    {
+      "plateNumber": 45,
+      "name": "Manisa",
+      "avgHousePrice": 41000,
+      "districts": []
+    },
+    {
+      "plateNumber": 46,
+      "name": "Kahramanmaraş",
+      "avgHousePrice": 27000,
+      "districts": []
+    },
+    {
+      "plateNumber": 47,
+      "name": "Mardin",
+      "avgHousePrice": 25000,
+      "districts": []
+    },
+    {
+      "plateNumber": 48,
+      "name": "Muğla",
+      "avgHousePrice": 68000,
+      "districts": []
+    },
+    {
+      "plateNumber": 49,
+      "name": "Muş",
+      "avgHousePrice": 17000,
+      "districts": []
+    },
+    {
+      "plateNumber": 50,
+      "name": "Nevşehir",
+      "avgHousePrice": 35000,
+      "districts": []
+    },
+    {
+      "plateNumber": 51,
+      "name": "Niğde",
+      "avgHousePrice": 26000,
+      "districts": []
+    },
+    {
+      "plateNumber": 52,
+      "name": "Ordu",
+      "avgHousePrice": 30000,
+      "districts": []
+    },
+    {
+      "plateNumber": 53,
+      "name": "Rize",
+      "avgHousePrice": 32000,
+      "districts": []
+    },
+    {
+      "plateNumber": 54,
+      "name": "Sakarya",
+      "avgHousePrice": 46000,
+      "districts": []
+    },
+    {
+      "plateNumber": 55,
+      "name": "Samsun",
+      "avgHousePrice": 34000,
+      "districts": []
+    },
+    {
+      "plateNumber": 56,
+      "name": "Siirt",
+      "avgHousePrice": 20000,
+      "districts": []
+    },
+    {
+      "plateNumber": 57,
+      "name": "Sinop",
+      "avgHousePrice": 28000,
+      "districts": []
+    },
+    {
+      "plateNumber": 58,
+      "name": "Sivas",
+      "avgHousePrice": 24000,
+      "districts": []
+    },
+    {
+      "plateNumber": 59,
+      "name": "Tekirdağ",
+      "avgHousePrice": 50000,
+      "districts": []
+    },
+    {
+      "plateNumber": 60,
+      "name": "Tokat",
+      "avgHousePrice": 22000,
+      "districts": []
+    },
+    {
+      "plateNumber": 61,
+      "name": "Trabzon",
+      "avgHousePrice": 42000,
+      "districts": []
+    },
+    {
+      "plateNumber": 62,
+      "name": "Tunceli",
+      "avgHousePrice": 19000,
+      "districts": []
+    },
+    {
+      "plateNumber": 63,
+      "name": "Şanlıurfa",
+      "avgHousePrice": 26000,
+      "districts": []
+    },
+    {
+      "plateNumber": 64,
+      "name": "Uşak",
+      "avgHousePrice": 29000,
+      "districts": []
+    },
+    {
+      "plateNumber": 65,
+      "name": "Van",
+      "avgHousePrice": 22000,
+      "districts": []
+    },
+    {
+      "plateNumber": 66,
+      "name": "Yozgat",
+      "avgHousePrice": 20000,
+      "districts": []
+    },
+    {
+      "plateNumber": 67,
+      "name": "Zonguldak",
+      "avgHousePrice": 30000,
+      "districts": []
+    },
+    {
+      "plateNumber": 68,
+      "name": "Aksaray",
+      "avgHousePrice": 25000,
+      "districts": []
+    },
+    {
+      "plateNumber": 69,
+      "name": "Bayburt",
+      "avgHousePrice": 18000,
+      "districts": []
+    },
+    {
+      "plateNumber": 70,
+      "name": "Karaman",
+      "avgHousePrice": 24000,
+      "districts": []
+    },
+    {
+      "plateNumber": 71,
+      "name": "Kırıkkale",
+      "avgHousePrice": 26000,
+      "districts": []
+    },
+    {
+      "plateNumber": 72,
+      "name": "Batman",
+      "avgHousePrice": 23000,
+      "districts": []
+    },
+    {
+      "plateNumber": 73,
+      "name": "Şırnak",
+      "avgHousePrice": 18000,
+      "districts": []
+    },
+    {
+      "plateNumber": 74,
+      "name": "Bartın",
+      "avgHousePrice": 31000,
+      "districts": []
+    },
+    {
+      "plateNumber": 75,
+      "name": "Ardahan",
+      "avgHousePrice": 17000,
+      "districts": []
+    },
+    {
+      "plateNumber": 76,
+      "name": "Iğdır",
+      "avgHousePrice": 20000,
+      "districts": []
+    },
+    {
+      "plateNumber": 77,
+      "name": "Yalova",
+      "avgHousePrice": 48000,
+      "districts": []
+    },
+    {
+      "plateNumber": 78,
+      "name": "Karabük",
+      "avgHousePrice": 27000,
+      "districts": []
+    },
+    {
+      "plateNumber": 79,
+      "name": "Kilis",
+      "avgHousePrice": 24000,
+      "districts": []
+    },
+    {
+      "plateNumber": 80,
+      "name": "Osmaniye",
+      "avgHousePrice": 28000,
+      "districts": []
+    },
+    {
+      "plateNumber": 81,
+      "name": "Düzce",
+      "avgHousePrice": 34000,
+      "districts": []
+    }
+  ]
+}

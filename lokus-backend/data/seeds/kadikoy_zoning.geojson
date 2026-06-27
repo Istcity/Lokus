@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "name": "kadikoy_zoning_pilot",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "il_kodu": "34",
+        "plan_notu": "Konut alanı — E:5.00, TAKS:0.40, KAKS:2.00",
+        "taks": 0.4,
+        "kaks": 2.0,
+        "yapilasma_turu": "Konut",
+        "max_kat": "5 Kat",
+        "kaynak_kurum": "İBB Açık Veri Portalı (pilot seed)",
+        "confidence_level": "high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [29.0220, 40.9895], [29.0340, 40.9895], [29.0340, 40.9960],
+          [29.0220, 40.9960], [29.0220, 40.9895]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "il_kodu": "34",
+        "plan_notu": "Ticaret + konut karma — TAKS:0.35, KAKS:1.80",
+        "taks": 0.35,
+        "kaks": 1.8,
+        "yapilasma_turu": "Ticari",
+        "max_kat": "4 Kat",
+        "kaynak_kurum": "İBB Açık Veri Portalı (pilot seed)",
+        "confidence_level": "medium"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [29.0250, 40.9860], [29.0310, 40.9860], [29.0310, 40.9890],
+          [29.0250, 40.9890], [29.0250, 40.9860]
+        ]]
+      }
+    }
+  ]
+}

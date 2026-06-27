@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "name": "kadikoy_parcels_pilot",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "il_kodu": "34",
+        "ilce_kodu": "3401",
+        "mahalle_kodu": "3401001",
+        "ada": "1234",
+        "parsel": "5",
+        "yuzolcum": 450.0,
+        "malik_ozet": "Özet bilgi — resmi tapu kaydı için TKGM",
+        "kaynak": "TKGM WFS (pilot seed)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [29.0268, 40.9922], [29.0282, 40.9922], [29.0282, 40.9932],
+          [29.0268, 40.9932], [29.0268, 40.9922]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "il_kodu": "34",
+        "ilce_kodu": "3401",
+        "ada": "1234",
+        "parsel": "6",
+        "yuzolcum": 320.0,
+        "malik_ozet": "Pilot parsel kaydı",
+        "kaynak": "TKGM WFS (pilot seed)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [29.0283, 40.9922], [29.0295, 40.9922], [29.0295, 40.9932],
+          [29.0283, 40.9932], [29.0283, 40.9922]
+        ]]
+      }
+    }
+  ]
+}

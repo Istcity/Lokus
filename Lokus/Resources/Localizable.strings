@@ -1,0 +1,35 @@
+/* Lokus — Gayrimenkul Konum Radarı */
+
+/* Keşfet */
+"tab.explore" = "Keşfet";
+"tab.feasibility" = "Fizibilite";
+"tab.deed" = "Tapu & Hukuk";
+"tab.documents" = "Belgeler";
+"tab.profile" = "Profil";
+
+/* Genel */
+"disclaimer.title" = "Önemli Uyarı";
+"disclaimer.accept" = "Anladım, Devam Et";
+"error.location_denied" = "Konum izni gerekli. Ayarlar > Lokus > Konum'u etkinleştirin.";
+"error.premium_required" = "Bu özellik için Lokus Premium gerekli.";
+
+/* Fizibilite */
+"roi.title" = "Fizibilite";
+"roi.profit_margin" = "Kâr Marjı";
+"roi.break_even" = "Başa Baş Fiyatı";
+"roi.rental_yield" = "Kira Getirisi";
+
+/* Tapu */
+"tapu.deed_type" = "Tapu türünüz nedir?";
+"tapu.annotation" = "Şerh var mı?";
+"tapu.zoning" = "İmar Durumu Sorgulama";
+"tapu.earthquake" = "Deprem Riski Analizi";
+
+/* Premium */
+"premium.title" = "Lokus Premium";
+"premium.purchase" = "Lokus Premium Satın Al";
+"premium.restore" = "Satın Alımları Geri Yükle";
+
+/* Feature Gate */
+"gate.locked" = "kilitli";
+"gate.watch_ad" = "Reklam İzle ve Aç";

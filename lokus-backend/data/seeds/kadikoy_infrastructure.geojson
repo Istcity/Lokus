@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "name": "kadikoy_infrastructure_pilot",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "tur": "yol", "kaynak": "İBB (pilot seed)" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[29.0260, 40.9920], [29.0290, 40.9930]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "tur": "su", "kaynak": "İSKİ (pilot seed)" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[29.0265, 40.9918], [29.0288, 40.9928]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "tur": "elektrik", "kaynak": "BEDAŞ (pilot seed)" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[29.0270, 40.9925], [29.0292, 40.9935]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "tur": "dogalgaz", "kaynak": "İGDAŞ (pilot seed)" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[29.0272, 40.9923], [29.0285, 40.9930]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "tur": "fiber", "kaynak": "Altyapı (pilot seed)" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[29.0268, 40.9926], [29.0290, 40.9933]]
+      }
+    }
+  ]
+}

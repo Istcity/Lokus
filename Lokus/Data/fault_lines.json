@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "faultLines": [
+    {
+      "id": "naf",
+      "name": "Kuzey Anadolu Fay Hattı (KAF)",
+      "startLatitude": 40.75,
+      "startLongitude": 29.10,
+      "endLatitude": 41.05,
+      "endLongitude": 29.35,
+      "magnitude": "7.0+",
+      "description": "İstanbul'un güneyinde uzanan ana fay hattı"
+    },
+    {
+      "id": "naf_west",
+      "name": "KAF — Marmara Batı Segmenti",
+      "startLatitude": 40.85,
+      "startLongitude": 28.50,
+      "endLatitude": 41.00,
+      "endLongitude": 29.10,
+      "magnitude": "7.4",
+      "description": "Marmara Denizi güney kıyısı boyunca uzanır"
+    },
+    {
+      "id": "eaf",
+      "name": "Doğu Anadolu Fay Hattı (DAF)",
+      "startLatitude": 38.50,
+      "startLongitude": 39.00,
+      "endLatitude": 40.50,
+      "endLongitude": 42.00,
+      "magnitude": "7.5+",
+      "description": "Doğu Anadolu bölgesinin ana fay sistemi"
+    },
+    {
+      "id": "ankara_fault",
+      "name": "Ankara Fay Zonu",
+      "startLatitude": 39.70,
+      "startLongitude": 32.50,
+      "endLatitude": 40.10,
+      "endLongitude": 33.20,
+      "magnitude": "6.5",
+      "description": "Ankara ve çevresinde aktif fay segmentleri"
+    },
+    {
+      "id": "gediz",
+      "name": "Gediz Graben Fayları",
+      "startLatitude": 38.20,
+      "startLongitude": 27.00,
+      "endLatitude": 38.80,
+      "endLongitude": 28.50,
+      "magnitude": "6.8",
+      "description": "Ege bölgesi batı segmenti"
+    },
+    {
+      "id": "burdur",
+      "name": "Burdur Fay Hattı",
+      "startLatitude": 37.50,
+      "startLongitude": 30.00,
+      "endLatitude": 37.90,
+      "endLongitude": 30.80,
+      "magnitude": "6.0",
+      "description": "Akdeniz iç kesimleri fay sistemi"
+    }
+  ]
+}
